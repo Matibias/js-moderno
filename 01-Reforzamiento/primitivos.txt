@@ -1,0 +1,6 @@
+Boolean -true/false: Verdadero y falso
+Null - Sin valor absoluto
+Undefined - Una variable declaradda que aún no se le asigna valor
+Number - Integers, float, etc.
+String - Una cadena de caracteres
+Symbol - Es un valor único que no es igual a ningún otro valor
