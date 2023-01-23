@@ -1,0 +1,15 @@
+En JS todo lo que es string se puede trabajar como un arreglo:  string[0] - devuelve la primera letra del caracter
+Los arreglos y los objetos pueden ser abstraidos
+Dentro de arreglos y objetos se pueden utilizar funciones o otros objetos o arreglos
+Puedes simplificar un anidamiento de if con un arreglo o objetos con los valores necesarios
+
+
+// DOCUMENT HTML
+querySelector() - Selecciona un elemento del DOCUMENT
+innerHTML, innerText - Agrega un elemento o un texto al DOCUMENT
+classList.add() - Agrega una clase al elemento
+createElement() - Crea un elemento en el DOCUMENT
+append() - Agrega un elemento al final
+
+// Eventos
+addEventListener('<evento>', <funcion>) - Escucha el evento del elemento y devuelve una funcion de respuesta
